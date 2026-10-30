@@ -1,0 +1,44 @@
+{
+  "concept_by": "Samuel Acuña",
+  "practice": "Dr. Luis Felipe Quiceno",
+  "official_website": "https://doctorluisfelipequiceno.com/",
+  "reviewed": "2026-10-29",
+  "images": [
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://doctorluisfelipequiceno.com/assets/img/image-team-felipe-card.webp",
+      "source_page": "https://doctorluisfelipequiceno.com/",
+      "role": "hero",
+      "original_caption": "Dr. Luis Felipe Quiceno"
+    },
+    {
+      "file": "assets/hero.webp",
+      "source_url": "https://doctorluisfelipequiceno.com/assets/img/image-team-felipe-card.webp",
+      "source_page": "https://doctorluisfelipequiceno.com/",
+      "role": "portrait",
+      "original_caption": "Dr. Luis Felipe Quiceno"
+    },
+    {
+      "file": "assets/detail.webp",
+      "source_url": "https://doctorluisfelipequiceno.com/assets/img/image-espacio-equipos.webp",
+      "source_page": "https://doctorluisfelipequiceno.com/",
+      "role": "detail",
+      "original_caption": "Equipos odontolÃ³gicos de la clÃ­nica"
+    },
+    {
+      "file": "assets/case1.webp",
+      "source_url": "https://doctorluisfelipequiceno.com/assets/img/image-espacio-recepcion.webp",
+      "source_page": "https://doctorluisfelipequiceno.com/",
+      "role": "case1",
+      "original_caption": "RecepciÃ³n de la clÃ­nica odontolÃ³gica"
+    },
+    {
+      "file": "assets/case2.webp",
+      "source_url": "https://doctorluisfelipequiceno.com/assets/img/image-espacio-tecnologia.webp",
+      "source_page": "https://doctorluisfelipequiceno.com/",
+      "role": "case2",
+      "original_caption": "TecnologÃ­a clÃ­nica para tratamientos odontolÃ³gicos"
+    }
+  ],
+  "note": "Public images used for an independent commercial demonstration. Image ownership remains with the original rights holders. No clinical outcome is promised."
+}
